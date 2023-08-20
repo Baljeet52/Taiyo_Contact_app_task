@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Taiyo_Contact_app_task/static/css/main.e5f2826a.css",
+    "main.js": "/Taiyo_Contact_app_task/static/js/main.5913732a.js",
+    "static/js/787.cf6a4479.chunk.js": "/Taiyo_Contact_app_task/static/js/787.cf6a4479.chunk.js",
+    "index.html": "/Taiyo_Contact_app_task/index.html",
+    "main.e5f2826a.css.map": "/Taiyo_Contact_app_task/static/css/main.e5f2826a.css.map",
+    "main.5913732a.js.map": "/Taiyo_Contact_app_task/static/js/main.5913732a.js.map",
+    "787.cf6a4479.chunk.js.map": "/Taiyo_Contact_app_task/static/js/787.cf6a4479.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5f2826a.css",
+    "static/js/main.5913732a.js"
+  ]
+}
